@@ -1,4 +1,4 @@
-;;; auctex-latexmk.el --- Add LatexMk support to AUCTeX
+;;; auctex-latexmk.el --- Add LatexMk support to AUCTeX. -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2013-2016 by Tomoya Tanjo
 
